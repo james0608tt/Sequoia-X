@@ -36,3 +36,11 @@ build/
 
 # Hypothesis 测试缓存
 .hypothesis/
+
+# 运行时数据与报告（模型/数据库/信号CSV均为本地生成）
+data/
+reports/
+
+# 备份文件
+*.bak
+.DS_Store
